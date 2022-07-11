@@ -32,3 +32,4 @@ All the above indicate that there is no sharp weather fluctuations in Oahu and t
 ### 2 Additional queries
 * Query can be run to retrieve June and December data for multiple years to see year on year trend
 * Query to check precipitation/humidity levels too see monsoon pattern for June and December 
+
