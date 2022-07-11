@@ -13,8 +13,8 @@ The tools we are using to do this analysis are SQLite and Python.
 ![December_tobs](https://github.com/preerit/surfs_up/blob/main/December_tobs.png)
 
 * The average temperature in June and December is in the range of 70-75, which is warm enough to support sales of surfboards and ice cream. Warm temperature continues to be one of the reasons why Hawaii attracts tourists year round!
-* Standard deviation is in the range of 2.5 to 3.5. This indicates that there is no wide range of temperatures (minimum vagaries) within the same month
-* Quartile analysis indicates that in the month of June, around 50% of temperature recordings is the range of 77 and in the month of December, it is in the range of 71. 
+* Standard deviation is in the range of 3.4 to 3.5. This indicates that there is no wide range of temperatures (minimum vagaries) within the same month
+* Quartile analysis indicates that in the month of June, around 50% of temperature recordings is the range of 75 and in the month of December, it is in the range of 71. 
 
 All the above are good reasons to believe that there are no sharp seasonal fluctuations in Oahu weather which makes it ideal for opening a Surf n' Shake shop.
 
@@ -22,11 +22,11 @@ All the above are good reasons to believe that there are no sharp seasonal fluct
 
 ## Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
 ### High level summary of the results
-* Max temperature in June is 83 while in December it is 78
-* Mean temperature in June is 77 while in December it is 71
-* Min temperature in June is 71 while in December it is 60
-* The standard deviation is in the range of 2.5 to 3.5
-* Outlier analysis for June indicates a 75 to 79 range and that in December indicates a 69 to 74 range
+* Max temperature in June is 81 while in December it is 78
+* Mean temperature in June is 75 while in December it is 71
+* Min temperature in June is 64 while in December it is 60
+* The standard deviation is in the range of 3.4 to 3.5
+* Outlier analysis for June indicates a 73 to 78 range and that in December indicates a 69 to 74 range
 All the above indicate that there is no sharp weather fluctuations in Oahu and that there is a fairly predicatable warm weather year round that should keep surfboard and ice cream sales up at Surf n' Shake
 
 ### 2 Additional queries
