@@ -16,7 +16,7 @@ All the above are good reasons to believe that there are no sharp seasonal fluct
 ----
 
 ## Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
-### High level summary of the results:
+### High level summary of the results
 * Max temperature in June is 83 while in December it is 78
 * Mean temperature in June is 77 while in December it is 71
 * Min temperature in June is 71 while in December it is 60
