@@ -8,6 +8,10 @@ The tools we are using to do this analysis are SQLite and Python.
 ----
 
 ## Results: Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
+![June_tobs](https://github.com/preerit/surfs_up/blob/main/June_tobs.png)
+
+![December_tobs](https://github.com/preerit/surfs_up/blob/main/December%20tobs.png)
+
 * The average temperature in June and December is in the range of 70-75, which is warm enough to support sales of surfboards and ice cream. Warm temperature continues to be one of the reasons why Hawaii attracts tourists year round!
 * Standard deviation is in the range of 2.5 to 3.5. This indicates that there is no wide range of temperatures (minimum vagaries) within the same month
 * Quartile analysis indicates that in the month of June, around 50% of temperature recordings is the range of 77 and in the month of December, it is in the range of 71. 
