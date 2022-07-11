@@ -3,6 +3,7 @@
 ## Overview of the analysis: Explain the purpose of this analysis.
 Surf n' Shake shop is a store in Oahu, Hawaii (still in ideation phase) that sells surfboards and ice cream to locals, tourists. An ivestor, W. Avy, is ready to invest in this venture but wants to see some weather analysis before he backs up this idea. 
 In this challenge, we are answering the investor's question about temperature trends. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
+The tools we are using to do this analysis are SQLite and Python.
 
 ----
 
